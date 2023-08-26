@@ -1,5 +1,5 @@
 
-<img src="images/cover-github.png" width="688px" height="545px" style="display: block; margin: 0 auto; text-align: center;">
+<img align="center" src="images/cover-github.webp">
 
 ---
 <br/>
