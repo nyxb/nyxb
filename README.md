@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<h3 style="text-align:center;">Things I code with</h3>
+<h3 align="center">Things I code with</h3>
 <img src="images/divider/divider-1@2x.webp">
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
